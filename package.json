@@ -1,0 +1,14 @@
+{
+  "name": "par3-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darius Stephen <darius.stephen@gmail.com> (dariusstephen.com)",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.6.0"
+  }
+}
